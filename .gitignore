@@ -1,0 +1,7 @@
+*.csv
+.ipynb_checkpoints/
+crimef.py
+crimef_clean.py
+__pycache__/
+.dist/
+artifacts/
